@@ -18,3 +18,12 @@
 
 ## Resources
 1. [Books](https://github.com/dworschak/Witcher/tree/master)
+
+## Python Librabries
+| Libraries | Used for | 
+| -------- | -------- | 
+| Selenium    | Webscraping. Beginner friendly. Suitable to small project     | 
+| Spacy    | Text processing     |
+| networkx    | Analyzing network relationship     |
+| pyvis    | network graph visualization     |
+| re    | Regular Expression     |
